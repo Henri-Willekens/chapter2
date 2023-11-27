@@ -82,8 +82,8 @@ module.exports = {
     adminAuth: {
         type: "credentials",
         users: [{
-            username: "admin",
-            password: "$2b$08$a3BqIzZBlX1ZZGymCPCeV.JNy0nEmyOIRdiN.hDjxXaHMzPk1Z/uO",
+            username: "hen",
+            password: "$2b$08$rBN5keYGAWM9MbFvA8666.IfJoG31ThaOQBkR58/v9JJEisOysol.",
             permissions: "*"
         }],
     //  Only allow read access without authentication
